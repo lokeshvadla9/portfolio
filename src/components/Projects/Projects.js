@@ -79,7 +79,6 @@ function Projects() {
               title="Stock Market Analysis"
               description="This project aims to demonstrate an end-to-end data engineering solution for analyzing real-time stock market data using various technologies including Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL."
               ghLink="https://github.com/lokeshvadla9/stock_market_analysis/tree/main"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
         </Row>
